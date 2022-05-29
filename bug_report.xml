@@ -1,1 +1,14 @@
-
+<?xml version="1.0"?>
+ <Bug_rep>
+  <Summary>Where is button?</Summary>
+  <Project_number>161</Project_number>
+  <Component>Start desktop</Component>
+  <fVersion>001.0</Version>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Status>S1</Status>
+  <Author>Maksim Zayats</Author>
+  <Assigned_To>Anastasiay Zayats</Assigned_To>
+  <Description>Not here button 'Sign-in'</Description>
+  <Attachment>null</Attachment>
+</Bug_rep>
